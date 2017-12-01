@@ -5,4 +5,4 @@
 # 	3.1)Kill it adn send a NOTIFICATION
 # 4) SLEEP
 
-# Estoy entrando en conflicto contigo, Juan. Vaya.
+# A mí no me preguntes, solo soy una chica.
